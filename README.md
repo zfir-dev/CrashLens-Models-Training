@@ -22,7 +22,9 @@ Link to CrashLens Mobile Application: https://play.google.com/store/apps/details
 ## Contacts
 
 Email: izafirsk@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/zfir/
+
 GitHub: https://github.com/zafirskthelifehacker/
 
 ## License
