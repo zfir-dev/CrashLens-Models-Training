@@ -21,7 +21,7 @@ Link to CrashLens Mobile Application: https://play.google.com/store/apps/details
 
 ## Contacts
 
-Email: izafirsk@gmail.com
+Email: zafir@zfir.dev
 
 LinkedIn: https://www.linkedin.com/in/zfir/
 
