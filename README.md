@@ -1,6 +1,6 @@
 # CrashLens-Models-Training
 
-NOTE: These training files in this repository was used to train the AI model for the CrashLens API and CrashLens Mobile Application
+NOTE: These training files in this repository was used to train the AI models for the CrashLens API and CrashLens Mobile Application
 
 ## Description
 
